@@ -26,3 +26,6 @@ dist/
 # Temporary files
 tmp/
 temp/
+
+node_modules
+.env
