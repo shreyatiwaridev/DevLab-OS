@@ -33,5 +33,21 @@ DevLab OS is an all-in-one engineering workspace built with the MEAN Stack. It c
 - [ ] AI Assistant
 
 ---
+## 📅 Development Progress
+
+### Version 0.1
+- Project initialized
+- Angular configured
+- Tailwind CSS integrated
+- Landing page created
+- GitHub repository setup
+
+### Upcoming
+- Premium Landing Page
+- Authentication
+- Dashboard
+- MongoDB
+- REST APIs
+
 
 Built with ❤️ by Shreya Tiwari
