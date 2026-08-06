@@ -49,5 +49,31 @@ DevLab OS is an all-in-one engineering workspace built with the MEAN Stack. It c
 - MongoDB
 - REST APIs
 
+## 📂 Backend Architecture
+
+```text
+server/
+├── config/
+│   └── db.js
+├── controllers/
+├── middleware/
+├── models/
+├── routes/
+│   └── index.js
+├── services/
+├── utils/
+├── app.js
+├── server.js
+└── .env.example
+```
+
+## 🚀 Next Milestone
+
+- [ ] Express Server Setup
+- [ ] MongoDB Connection
+- [ ] Authentication APIs
+- [ ] Project CRUD
+- [ ] Task Management APIs
+
 
 Built with ❤️ by Shreya Tiwari
