@@ -3,8 +3,10 @@ const express = require("express");
 const router = express.Router();
 
 router.get("/", (req, res) => {
-    res.json({
-        message: "DevLab OS API v1 is running 🚀"
+    res.status(200).json({
+        success: true,
+        message: "Welcome to DevLab OS API 🚀",
+        version: "v1"
     });
 });
 
